@@ -8,7 +8,7 @@ There are several ways to play the game:
 
 ### 1. Play in Your Browser (Recommended)
 You can play the latest version of the game directly in your browser on itch.io:
-- **[Play Raise Your Pet on itch.io]([https://maivinhnguyen.itch.io/raiseyourpet])**
+- **[Play Raise Your Pet on itch.io](https://maivinhnguyen.itch.io/raiseyourpet)**
 
 ### 2. Download for Windows
 A standalone executable file for Windows is available.
